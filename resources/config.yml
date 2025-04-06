@@ -22,6 +22,7 @@ data-provider: yamlv1
 # German message resource by @Exxarion (GitHub)
 # Indonesian message resource by @DevillordMCPE (GitHub)
 # Turkish messages resource by @PainTR (GitHub)
+
 default-language: en
 
 # Disable /op permission for all players
