@@ -1,10 +1,9 @@
 name: PurePerms
 main: _64FF00\PurePerms\PurePerms
-version: 3.0.0-ACM
+version: 3.0.1
 api: 5.0.0
 load: POSTWORLD
-authors: [fernanACM, 64FF00]
-website: https://github.com/fernanACM
+author: 64FF00
 permissions:
   pperms:
     description: 'PurePerms by 64FF00! (Twitter: @64FF00)'
